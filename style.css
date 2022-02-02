@@ -100,7 +100,7 @@ h2 {
 
 }
 
-.whales:hover {
+.whales:hover, .weddings:hover, .foodtrucks:hover, .rabbit-kitten:hover {
 
     border-color: yellow;
 }
