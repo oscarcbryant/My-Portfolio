@@ -1,0 +1,134 @@
+
+    header {
+    height: 270px;
+    display: flex;
+    }
+
+    body {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #oscar-heading {
+    background-color: lightcyan;
+    height: 90px;
+ 
+    }
+
+    .heading {
+        width: 100%;
+    }
+
+    #headers {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    }
+     
+
+    h1, h2, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h3 {
+        color: white;
+        font-style: italic;
+    }
+
+    #fullstack-heading {
+    background-color: lightslategray;
+    text-align: center;
+    height: 90px;
+    }
+
+    #nav-heading {
+    background-color: lightgray;
+    text-align: end;
+    height: 90px;
+}
+
+li {
+    display: inline;
+    font-size: larger;
+    }
+
+main {
+    height: 300px;
+    background-color: lightcyan ;
+}
+
+h2 {
+    /* padding-left: 150px; */
+    text-decoration: underline;
+}
+
+#about-paragraph {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#my-projects {
+
+    background-color: lightslategray;
+    height: 1300px;
+    width: 100%;
+}
+
+/* #whale-div, #weddings-div, #foodtruck-div, #kitten-div {
+    
+     
+     display: flex;
+     flex-direction: column;
+
+} */
+
+#image-div {
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+.whales {
+
+    height: 300px;
+    width: 450px;
+    border: darkblue solid;
+    border-radius: 10%;
+
+}
+
+.weddings {
+
+    height: 180px;
+    width: 290px;
+    border: darkblue solid;
+    border-radius: 10%;
+    /* margin-top: 15px; */
+
+}
+
+.foodtrucks {
+
+    height: 180px;
+    width: 290px;
+    border: darkblue solid;
+    border-radius: 10%;
+    /* margin-top: 15px; */
+
+}
+
+.rabbit-kitten {
+
+    height: 180px;
+    width: 290px;
+    border: darkblue solid;
+    border-radius: 10%;
+    /* margin-top: 15px; */
+
+}
+
+
+
